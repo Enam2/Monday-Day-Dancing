@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgLimo.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="background limo pink0000" x="0" y="785" width="2199" height="377"/>
+	<SubTexture name="background limo pink0001" x="19" y="392" width="2199" height="376"/>
+	<SubTexture name="background limo pink0002" x="0" y="785" width="2199" height="377"/>
+	<SubTexture name="background limo pink0003" x="19" y="392" width="2199" height="376"/>
+</TextureAtlas>
