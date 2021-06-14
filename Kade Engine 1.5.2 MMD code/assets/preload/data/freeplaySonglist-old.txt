@@ -1,0 +1,19 @@
+Tutorial Stage:gf:1
+Dad Dear Stage one:dad:1
+Dad Dear Stage two:dad:1
+Dad Dear Stage three:dad:1
+Ping Pum Stage one:spooky:2
+Ping Pum Stage two:spooky:2
+Aljanu Stage one:monster:2
+Benco Stage one:pico:3
+Benco Stage two:pico:3
+Benco Stage three:pico:3
+Most mom Stage one:mom:4
+Most mom Stage two:mom:4
+Most mom Stage three:mom:4
+MM DD Stage one:parents-christmas:5
+MM DD Stage two:parents-christmas:5
+Aljanu Stage two:monster-christmas:5
+Senap Stage one:senpai:6
+Senap Stage two:senpai:6
+... Stage three:spirit:6
