@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Friday Night Funkin': Kade Engine" file="Kade Engine" packageName="com.kadedev.kadeengine" package="com.kadedev.kadeengine" main="Main" version="0.2.7.1" company="kadedev" />
+	<app title="Monday Day Dancing" file="MMD" packageName="com.kadedev.kadeengine" package="com.kadedev.kadeengine" main="Main" version="0.2.7.1" company="kadedev" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
@@ -119,6 +119,8 @@
 	<haxelib name="polymod"/>
 	<haxelib name="discord_rpc" if="windows"/>
 	<haxelib name="linc_luajit" if="windows"/>
+	<haxelib name="actuate" />
+	<haxelib name="extension-webm" if="desktop" />
 
 	<!-- <haxelib name="hxcpp-debug-server" if="desktop"/> -->
 
