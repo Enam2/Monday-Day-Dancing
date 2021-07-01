@@ -1,4 +1,5 @@
 Tutorial:gf:1
+Advanced Tutorial:bf-pixel-hollo:1
 Bopeebo:dad:1
 Fresh:dad:1
 Dad Battle:dad:1
@@ -17,4 +18,6 @@ Winter Horrorland:monster-christmas:5
 Senpai:senpai:6
 Roses:senpai:6
 Thorns:spirit:6
-Test:mike:7
+Ugh:caption:7
+Guns:caption:7
+Stress:caption:7
