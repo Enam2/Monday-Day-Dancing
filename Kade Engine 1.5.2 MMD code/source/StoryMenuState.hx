@@ -24,17 +24,18 @@ class StoryMenuState extends MusicBeatState
 	var scoreText:FlxText;
 
 	var weekData:Array<Dynamic> = [
-		['Tutorial'],
+		['Tutorial', 'Advanced Tutorial'],
 		['Bopeebo', 'Fresh', 'Dad Battle'],
 		['Spookeez', 'South', "Monster"],
 		['Pico', 'Philly Nice', "Blammed"],
 		['Satin Panties', "High", "Milf"],
 		['Cocoa', 'Eggnog', 'Winter Horrorland'],
-		['Senpai', 'Roses', 'Thorns']
+		['Senpai', 'Roses', 'Thorns'],
+		['Ugh', 'Guns', 'Stress']
 	];
 	var curDifficulty:Int = 1;
 
-	public static var weekUnlocked:Array<Bool> = [true, true, true, true, true, true, true];
+	public static var weekUnlocked:Array<Bool> = [true, true, true, true, true, true, true, true];
 
 	var weekCharacters:Array<Dynamic> = [
 		['', 'bf', 'gf'],
@@ -43,17 +44,19 @@ class StoryMenuState extends MusicBeatState
 		['pico', 'bf', 'gf'],
 		['mom', 'bf', 'gf'],
 		['parents-christmas', 'bf', 'gf'],
-		['senpai', 'bf', 'gf']
+		['senpai', 'bf', 'gf'],
+		['caption', 'bf', 'gf']
 	];
 
 	var weekNames:Array<String> = [
-		"Micheal and Thigh Laby hangout",
+		"Tutorials",
 		"Dad Dear",
-		"Slipping and Pumping",
+		"Skipping and Pumping",
 		"Benco",
 		"Most Mother",
 		"Snowy",
-		"In a game"
+		"In a game",
+		"People"
 	];
 
 	var txtWeekTitle:FlxText;
@@ -302,7 +305,15 @@ class StoryMenuState extends MusicBeatState
 			PlayState.campaignScore = 0;
 			new FlxTimer().start(1, function(tmr:FlxTimer)
 			{
+				if(PlayState.SONG.song.toLowerCase() == 'thorns')
+			{
+				FlxG.switchState(new VideoState('assets/videos/thornsshit.webm', new PlayState()));
 				LoadingState.loadAndSwitchState(new PlayState(), true);
+			}
+			else
+			{
+				LoadingState.loadAndSwitchState(new PlayState(), true);
+			}	
 			});
 		}
 	}

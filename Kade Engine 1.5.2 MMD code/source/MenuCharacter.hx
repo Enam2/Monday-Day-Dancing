@@ -29,7 +29,8 @@ class MenuCharacter extends FlxSprite
 		'pico' => new CharacterSetting(0, 0, 1.0, true),
 		'mom' => new CharacterSetting(-30, 140, 0.85),
 		'parents-christmas' => new CharacterSetting(100, 130, 1.8),
-		'senpai' => new CharacterSetting(-40, -45, 1.4)
+		'senpai' => new CharacterSetting(-40, -45, 1.4),
+		'caption' => new CharacterSetting(-40, -45, 1.4)
 	];
 
 	private var flipped:Bool = false;
@@ -43,15 +44,16 @@ class MenuCharacter extends FlxSprite
 
 		frames = Paths.getSparrowAtlas('campaign_menu_UI_characters');
 
-		animation.addByPrefix('bf', "BF idle dance white", 24);
-		animation.addByPrefix('bfConfirm', 'BF HEY!!', 24, false);
-		animation.addByPrefix('gf', "GF Dancing Beat WHITE", 24);
-		animation.addByPrefix('dad', "Dad idle dance BLACK LINE", 24);
-		animation.addByPrefix('spooky', "spooky dance idle BLACK LINES", 24);
-		animation.addByPrefix('pico', "Pico Idle Dance", 24);
-		animation.addByPrefix('mom', "Mom Idle BLACK LINES", 24);
-		animation.addByPrefix('parents-christmas', "Parent Christmas Idle", 24);
-		animation.addByPrefix('senpai', "SENPAI idle Black Lines", 24);
+		animation.addByPrefix('bf', "Micheal Idle black instance 1", 24);
+		animation.addByPrefix('bfConfirm', 'HEY!! instance 1', 24, false);
+		animation.addByPrefix('gf', "ThighLaby Lines instance 1", 24);
+		animation.addByPrefix('dad', "Dad Dear black instance 1", 24);
+		animation.addByPrefix('spooky', "SandP Lines instance 1", 24);
+		animation.addByPrefix('pico', "Benco Lines instance 1", 24);
+		animation.addByPrefix('mom', "Most Mother lines instance 1", 24);
+		animation.addByPrefix('parents-christmas', "DD and MM Lines instance 1", 24);
+		animation.addByPrefix('senpai', "Anime Dude lines instance 1", 24);
+		animation.addByPrefix('caption', "Headline Lines instance 1", 24);
 
 		setGraphicSize(Std.int(width * scale));
 		updateHitbox();

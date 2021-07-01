@@ -169,6 +169,11 @@ class PlayState extends MusicBeatState
 	var upperBoppers:FlxSprite;
 	var bottomBoppers:FlxSprite;
 	var santa:FlxSprite;
+	var tankWatchtower:FlxSprite;
+	var smokeLeft:FlxSprite;
+	var smokeRight:FlxSprite;
+	var tankheads:FlxSprite;
+	var BencoSpeaker:FlxSprite;
 
 	var fc:Bool = true;
 
@@ -685,6 +690,14 @@ class PlayState extends MusicBeatState
 						stageFront.scrollFactor.set(0.9, 0.9);
 						stageFront.active = false;
 						add(stageFront);
+
+						var stage_light:FlxSprite = new FlxSprite(-500, -300).loadGraphic(Paths.image('stage_light'));
+						stage_light.setGraphicSize(Std.int(stageFront.width * 0.9));
+						stage_light.updateHitbox();
+						stage_light.antialiasing = true;
+						stage_light.scrollFactor.set(1, 1);
+						stage_light.active = false;
+						add(stage_light);
 	
 						var stageCurtains:FlxSprite = new FlxSprite(-500, -300).loadGraphic(Paths.image('stagecurtains'));
 						stageCurtains.setGraphicSize(Std.int(stageCurtains.width * 0.9));
@@ -695,6 +708,242 @@ class PlayState extends MusicBeatState
 	
 						add(stageCurtains);
 				}
+ 
+			case 'stage2':
+				{
+						defaultCamZoom = 0.9;
+						curStage = 'stage';
+						var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('stageback2'));
+						bg.antialiasing = true;
+						bg.scrollFactor.set(0.9, 0.9);
+						bg.active = false;
+						add(bg);
+	
+						var stageFront:FlxSprite = new FlxSprite(-650, 600).loadGraphic(Paths.image('stagefront2'));
+						stageFront.setGraphicSize(Std.int(stageFront.width * 1.1));
+						stageFront.updateHitbox();
+						stageFront.antialiasing = true;
+						stageFront.scrollFactor.set(0.9, 0.9);
+						stageFront.active = false;
+						add(stageFront);
+
+						var stage_light:FlxSprite = new FlxSprite(-500, -300).loadGraphic(Paths.image('stage_light2'));
+						stage_light.setGraphicSize(Std.int(stageFront.width * 0.9));
+						stage_light.updateHitbox();
+						stage_light.antialiasing = true;
+						stage_light.scrollFactor.set(1, 1);
+						stage_light.active = false;
+						add(stage_light);
+	
+						var stageCurtains:FlxSprite = new FlxSprite(-500, -300).loadGraphic(Paths.image('stagecurtains2'));
+						stageCurtains.setGraphicSize(Std.int(stageCurtains.width * 0.9));
+						stageCurtains.updateHitbox();
+						stageCurtains.antialiasing = true;
+						stageCurtains.scrollFactor.set(1.3, 1.3);
+						stageCurtains.active = false;
+	
+						add(stageCurtains);
+				}
+
+			case 'tankstageSTRESS':
+			{
+					curStage = 'tankstageSTRESS';
+
+					defaultCamZoom = 0.9;
+
+					var tankSky:FlxSprite = new FlxSprite(-100, -200).loadGraphic(Paths.image('week7/tankSky','shared'));
+					tankSky.antialiasing = true;
+					tankSky.scrollFactor.set(0, 0);
+					tankSky.active = false;
+					tankSky.setGraphicSize(Std.int(tankSky.width * 0.9));
+					tankSky.updateHitbox();
+					add(tankSky);
+
+					var tankClouds:FlxSprite = new FlxSprite(-700, 500).loadGraphic(Paths.image('week7/tankClouds','shared'));
+					tankClouds.antialiasing = true;
+					tankClouds.scrollFactor.set(0.40, 0.40);
+					add(tankClouds);
+
+					var tankMountains:FlxSprite = new FlxSprite(-80, 100).loadGraphic(Paths.image('week7/tankMountains','shared'));
+					tankMountains.antialiasing = false;
+					tankMountains.scrollFactor.set(0.2, 0.2);
+					tankMountains.active = false;
+					tankMountains.setGraphicSize(Std.int(tankMountains.width * 0.8));
+					tankMountains.updateHitbox();
+					tankMountains.scale.set(1, 1);
+					add(tankMountains);
+
+					var buildings:FlxSprite = new FlxSprite(-20, 100).loadGraphic(Paths.image('week7/tankBuildings','shared'));
+					buildings.antialiasing = false;
+					buildings.scrollFactor.set(0.2, 0.2);
+					buildings.active = false;
+					buildings.setGraphicSize(Std.int(buildings.width * 0.8));
+					buildings.updateHitbox();
+					buildings.scale.set(1, 1);
+					add(buildings);
+
+					var ruins:FlxSprite = new FlxSprite(-20, 100).loadGraphic(Paths.image('week7/tankRuins','shared'));
+					ruins.antialiasing = false;
+					ruins.scrollFactor.set(0.2, 0.2);
+					ruins.active = false;
+					ruins.setGraphicSize(Std.int(ruins.width * 0.8));
+					ruins.updateHitbox();
+					ruins.scale.set(1, 1);
+					add(ruins);
+
+					tankWatchtower = new FlxSprite(-250, 100);
+					tankWatchtower.frames = Paths.getSparrowAtlas('week7/tankWatchtower','shared');
+					tankWatchtower.animation.addByPrefix('bop', 'watchtower copy', 24, false);
+					tankWatchtower.antialiasing = true;
+					tankWatchtower.scrollFactor.set(0.9, 0.9);
+					tankWatchtower.setGraphicSize(Std.int(tankWatchtower.width * 1));
+					tankWatchtower.updateHitbox();
+					if(FlxG.save.data.distractions){
+						add(tankWatchtower);
+					}
+
+					smokeLeft = new FlxSprite(-250, 100);
+					smokeLeft.frames = Paths.getSparrowAtlas('week7/smoke LEFT','shared');
+					smokeLeft.animation.addByPrefix('idle', 'smoke LEFT0', 24, false);
+					smokeLeft.antialiasing = true;
+					smokeLeft.scale.set(0.7, 0.7);
+					if(FlxG.save.data.distractions){
+						add(smokeLeft);
+					}
+
+					smokeRight = new FlxSprite(800, 100);
+					smokeRight.frames = Paths.getSparrowAtlas('week7/smoke RIGHT','shared');
+					smokeRight.animation.addByPrefix('idle', 'smoke RIGHT0', 24, false);
+					smokeRight.antialiasing = true;
+					smokeRight.scale.set(0.7, 0.7);
+					if(FlxG.save.data.distractions){
+						add(smokeRight);
+					}
+
+					var fg:FlxSprite = new FlxSprite(-200, 30).loadGraphic(Paths.image('week7/tankGround','shared'));
+					fg.active = false;
+					fg.antialiasing = true;
+					add(fg);
+
+					BencoSpeaker = new FlxSprite(-250, 0);
+					BencoSpeaker.frames = Paths.getSparrowAtlas('week7/Benco-Speaker','shared');
+					BencoSpeaker.animation.addByPrefix('idle', 'Stress Full0', 24, false);
+					BencoSpeaker.antialiasing = true;
+					if(FlxG.save.data.distractions){
+						add(BencoSpeaker);
+					}
+
+					tankheads = new FlxSprite(-250, 650);
+					tankheads.frames = Paths.getSparrowAtlas('week7/tankheads','shared');
+					tankheads.animation.addByPrefix('idle', 'All heads0', 24, false);
+					tankheads.antialiasing = true;
+					tankheads.scrollFactor.set(0.9, 0.9);
+					tankheads.setGraphicSize(Std.int(tankheads.width * 1));
+					tankheads.updateHitbox();
+					if(FlxG.save.data.distractions){
+						// add(tankWatchtower);
+					}
+			}
+			case 'tankstage':
+			{
+					curStage = 'tankstage';
+
+					defaultCamZoom = 0.9;
+
+					var tankSky:FlxSprite = new FlxSprite(-100, -200).loadGraphic(Paths.image('week7/tankSky','shared'));
+					tankSky.antialiasing = true;
+					tankSky.scrollFactor.set(0, 0);
+					tankSky.active = false;
+					tankSky.setGraphicSize(Std.int(tankSky.width * 0.9));
+					tankSky.updateHitbox();
+					add(tankSky);
+
+					var tankClouds:FlxSprite = new FlxSprite(-700, 500).loadGraphic(Paths.image('week7/tankClouds','shared'));
+					tankClouds.antialiasing = true;
+					tankClouds.scrollFactor.set(0.40, 0.40);
+					add(tankClouds);
+
+					var tankMountains:FlxSprite = new FlxSprite(-80, 100).loadGraphic(Paths.image('week7/tankMountains','shared'));
+					tankMountains.antialiasing = false;
+					tankMountains.scrollFactor.set(0.2, 0.2);
+					tankMountains.active = false;
+					tankMountains.setGraphicSize(Std.int(tankMountains.width * 0.8));
+					tankMountains.updateHitbox();
+					tankMountains.scale.set(1, 1);
+					add(tankMountains);
+
+					var buildings:FlxSprite = new FlxSprite(-20, 100).loadGraphic(Paths.image('week7/tankBuildings','shared'));
+					buildings.antialiasing = false;
+					buildings.scrollFactor.set(0.2, 0.2);
+					buildings.active = false;
+					buildings.setGraphicSize(Std.int(buildings.width * 0.8));
+					buildings.updateHitbox();
+					buildings.scale.set(1, 1);
+					add(buildings);
+
+					var ruins:FlxSprite = new FlxSprite(-20, 100).loadGraphic(Paths.image('week7/tankRuins','shared'));
+					ruins.antialiasing = false;
+					ruins.scrollFactor.set(0.2, 0.2);
+					ruins.active = false;
+					ruins.setGraphicSize(Std.int(ruins.width * 0.8));
+					ruins.updateHitbox();
+					ruins.scale.set(1, 1);
+					add(ruins);
+
+					tankWatchtower = new FlxSprite(-250, 100);
+					tankWatchtower.frames = Paths.getSparrowAtlas('week7/tankWatchtower','shared');
+					tankWatchtower.animation.addByPrefix('bop', 'watchtower copy', 24, false);
+					tankWatchtower.antialiasing = true;
+					tankWatchtower.scrollFactor.set(0.9, 0.9);
+					tankWatchtower.setGraphicSize(Std.int(tankWatchtower.width * 1));
+					tankWatchtower.updateHitbox();
+					if(FlxG.save.data.distractions){
+						add(tankWatchtower);
+					}
+
+					smokeLeft = new FlxSprite(-250, 100);
+					smokeLeft.frames = Paths.getSparrowAtlas('week7/smoke LEFT','shared');
+					smokeLeft.animation.addByPrefix('idle', 'smoke LEFT0', 24, false);
+					smokeLeft.antialiasing = true;
+					smokeLeft.scale.set(0.7, 0.7);
+					if(FlxG.save.data.distractions){
+						add(smokeLeft);
+					}
+
+					smokeRight = new FlxSprite(800, 100);
+					smokeRight.frames = Paths.getSparrowAtlas('week7/smoke RIGHT','shared');
+					smokeRight.animation.addByPrefix('idle', 'smoke RIGHT0', 24, false);
+					smokeRight.antialiasing = true;
+					smokeRight.scale.set(0.7, 0.7);
+					if(FlxG.save.data.distractions){
+						add(smokeRight);
+					}
+
+					var fg:FlxSprite = new FlxSprite(-200, 30).loadGraphic(Paths.image('week7/tankGround','shared'));
+					fg.active = false;
+					fg.antialiasing = true;
+					add(fg);
+
+					// LOL YOU WANT UNUSED CODE? XD YOU GET NOTHING! = new FlxSprite(250, 200);
+					// LOL YOU WANT UNUSED CODE? XD YOU GET NOTHING!.frames = Paths.getSparrowAtlas('week7/LOL YOU WANT UNUSED CODE? XD YOU GET NOTHING!','shared');
+					// LOL YOU WANT UNUSED CODE? XD YOU GET NOTHING!.animation.addByPrefix('ASS IN MY DICK	', 'NO', 24, false);
+					// LOL YOU WANT UNUSED CODE? XD YOU GET NOTHING!.antialiasing = true;
+					// if(FlxG.save.data.distractions){
+						// fadd(LOL YOU WANT UNUSED CODE? XD YOU GET NOTHING!);
+					// }
+
+					tankheads = new FlxSprite(-250, 650);
+					tankheads.frames = Paths.getSparrowAtlas('week7/tankheads','shared');
+					tankheads.animation.addByPrefix('idle', 'All heads0', 24, false);
+					tankheads.antialiasing = true;
+					tankheads.scrollFactor.set(0.9, 0.9);
+					tankheads.setGraphicSize(Std.int(tankheads.width * 1));
+					tankheads.updateHitbox();
+					if(FlxG.save.data.distractions){
+						// add(tankWatchtower);
+					}
+
+			}
 			default:
 			{
 					defaultCamZoom = 0.9;
@@ -712,6 +961,14 @@ class PlayState extends MusicBeatState
 					stageFront.scrollFactor.set(0.9, 0.9);
 					stageFront.active = false;
 					add(stageFront);
+
+					var stage_light:FlxSprite = new FlxSprite(-500, -300).loadGraphic(Paths.image('stage_light'));
+					stage_light.setGraphicSize(Std.int(stageFront.width * 0.9));
+					stage_light.updateHitbox();
+					stage_light.antialiasing = true;
+					stage_light.scrollFactor.set(1, 1);
+					stage_light.active = false;
+					add(stage_light);
 
 					var stageCurtains:FlxSprite = new FlxSprite(-500, -300).loadGraphic(Paths.image('stagecurtains'));
 					stageCurtains.setGraphicSize(Std.int(stageCurtains.width * 0.9));
@@ -733,6 +990,10 @@ class PlayState extends MusicBeatState
 				gfVersion = 'gf-christmas';
 			case 'gf-pixel':
 				gfVersion = 'gf-pixel';
+			case 'gf-pixel-thorns':
+				gfVersion = 'gf-pixel-thorns';
+			case 'gf-stress':
+				gfVersion = 'gf-stress';
 			default:
 				gfVersion = 'gf';
 		}
@@ -823,7 +1084,26 @@ class PlayState extends MusicBeatState
 				boyfriend.y += 220;
 				gf.x += 180;
 				gf.y += 300;
+			
+			case 'tankstage':
+				boyfriend.x += 40;
+				boyfriend.y -= 30;
+				gf.x += 50;
+				gf.y -= 20;
+				dad.y += 200;
+
+			case 'tankstageSTRESS':
+				boyfriend.x += 40;
+				boyfriend.y -= 30;
+				gf.x += 50;
+				gf.y -= 20;
+				dad.y += 200;
+
+			case 'stage2':
+				dad.y -= 200;
+
 		}
+
 
 		add(gf);
 
@@ -832,7 +1112,15 @@ class PlayState extends MusicBeatState
 			add(limo);
 
 		add(dad);
+
 		add(boyfriend);
+
+		if (curStage == 'tankstage')
+			add(tankheads);
+
+		if (curStage == 'tankstageSTRESS')
+			add(tankheads);
+
 		if (loadRep)
 		{
 			FlxG.watch.addQuick('rep rpesses',repPresses);
@@ -3397,6 +3685,63 @@ class PlayState extends MusicBeatState
 			luaModchart.setVar('curStep',curStep);
 			luaModchart.executeState('stepHit',[curStep]);
 		}
+
+		if (dad.curCharacter == 'caption' && SONG.song.toLowerCase() == 'ugh')
+		{
+			if (curStep == 60)
+			{
+				dad.playAnim('UGH', true);
+			}
+		}
+
+		if (dad.curCharacter == 'caption' && SONG.song.toLowerCase() == 'ugh')
+		{
+			if (curStep == 444)
+			{
+				dad.playAnim('UGH', true);
+			}
+		}
+
+		if (dad.curCharacter == 'caption' && SONG.song.toLowerCase() == 'ugh')
+		{
+			if (curStep == 524)
+			{
+				dad.playAnim('UGH', true);
+			}
+		}
+
+		if (dad.curCharacter == 'caption' && SONG.song.toLowerCase() == 'ugh')
+		{
+			if (curStep == 828)
+			{
+				dad.playAnim('UGH', true);
+			}
+		}
+
+		if (dad.curCharacter == 'caption' && SONG.song.toLowerCase() == 'stress')
+		{
+			if (curStep == 736)
+			{
+				dad.playAnim('Prettygood', true);
+			}
+		}
+
+		if (dad.curCharacter == 'caption' && SONG.song.toLowerCase() == 'stress')
+		{
+			if (curStep == 1032)
+			{
+				boyfriend.playAnim('WOAH', true);
+			}
+		}
+
+		if (dad.curCharacter == 'caption' && SONG.song.toLowerCase() == 'guns')
+		{
+			if (curStep == 914)
+			{
+				boyfriend.playAnim('WOAH', true);
+			}
+		}
+
 		#end
 
 
@@ -3511,6 +3856,23 @@ class PlayState extends MusicBeatState
 					upperBoppers.animation.play('bop', true);
 					bottomBoppers.animation.play('bop', true);
 					santa.animation.play('idle', true);
+				}
+
+			case 'tankstage':
+				if(FlxG.save.data.distractions){
+					smokeLeft.animation.play('idle', true);
+					smokeRight.animation.play('idle', true);
+					tankWatchtower.animation.play('bop', true);
+					tankheads.animation.play('idle', true);
+				}
+
+			case 'tankstageSTRESS':
+				if(FlxG.save.data.distractions){
+					smokeLeft.animation.play('idle', true);
+					smokeRight.animation.play('idle', true);
+					tankWatchtower.animation.play('bop', true);
+					tankheads.animation.play('idle', true);
+					BencoSpeaker.animation.play('idle', true);
 				}
 
 			case 'limo':
