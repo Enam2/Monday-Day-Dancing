@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tank0.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Farleft0000" x="353" y="952" width="351" height="478" pivotX="135.5" pivotY="345.3" frameX="0" frameY="-3" frameWidth="369" frameHeight="481"/>
+	<SubTexture name="Farleft0001" x="0" y="952" width="353" height="479" frameX="-1" frameY="-2" frameWidth="369" frameHeight="481"/>
+	<SubTexture name="Farleft0002" x="714" y="476" width="354" height="478" frameX="-2" frameY="-2" frameWidth="369" frameHeight="481"/>
+	<SubTexture name="Farleft0003" x="358" y="475" width="356" height="477" frameX="-3" frameY="-2" frameWidth="369" frameHeight="481"/>
+	<SubTexture name="Farleft0004" x="0" y="475" width="358" height="477" frameX="-4" frameY="-1" frameWidth="369" frameHeight="481"/>
+	<SubTexture name="Farleft0005" x="725" y="0" width="360" height="476" frameX="-4" frameY="-1" frameWidth="369" frameHeight="481"/>
+	<SubTexture name="Farleft0006" x="363" y="0" width="362" height="475" frameX="-5" frameY="-1" frameWidth="369" frameHeight="481"/>
+	<SubTexture name="Farleft0007" x="0" y="0" width="363" height="475" frameX="-6" frameY="0" frameWidth="369" frameHeight="481"/>
+</TextureAtlas>

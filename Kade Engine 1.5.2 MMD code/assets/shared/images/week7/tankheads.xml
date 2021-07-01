@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tankheads.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="All heads0000" x="0" y="0" width="1872" height="480" pivotX="0" pivotY="2.35" frameX="0" frameY="-2" frameWidth="1872" frameHeight="482"/>
+	<SubTexture name="All heads0001" x="1872" y="0" width="1872" height="479" frameX="0" frameY="-2" frameWidth="1872" frameHeight="482"/>
+	<SubTexture name="All heads0002" x="1872" y="479" width="1871" height="479" frameX="-1" frameY="-1" frameWidth="1872" frameHeight="482"/>
+	<SubTexture name="All heads0003" x="0" y="480" width="1870" height="478" frameX="-2" frameY="-1" frameWidth="1872" frameHeight="482"/>
+	<SubTexture name="All heads0004" x="0" y="958" width="1869" height="477" frameX="-3" frameY="-1" frameWidth="1872" frameHeight="482"/>
+	<SubTexture name="All heads0005" x="1869" y="958" width="1867" height="476" frameX="-4" frameY="-1" frameWidth="1872" frameHeight="482"/>
+	<SubTexture name="All heads0006" x="1869" y="1434" width="1866" height="476" frameX="-5" frameY="0" frameWidth="1872" frameHeight="482"/>
+	<SubTexture name="All heads0007" x="0" y="1435" width="1865" height="475" frameX="-6" frameY="0" frameWidth="1872" frameHeight="482"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tank2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Frontback0000" x="0" y="0" width="405" height="378" pivotX="194.8" pivotY="189.1" frameX="0" frameY="0" frameWidth="405" frameHeight="381"/>
+	<SubTexture name="Frontback0001" x="405" y="0" width="405" height="377" frameX="0" frameY="-2" frameWidth="405" frameHeight="381"/>
+	<SubTexture name="Frontback0002" x="810" y="0" width="405" height="375" frameX="0" frameY="-4" frameWidth="405" frameHeight="381"/>
+	<SubTexture name="Frontback0003" x="1215" y="0" width="405" height="374" frameX="0" frameY="-6" frameWidth="405" frameHeight="381"/>
+	<SubTexture name="Frontback0004" x="1620" y="0" width="405" height="373" frameX="0" frameY="-7" frameWidth="405" frameHeight="381"/>
+	<SubTexture name="Frontback0005" x="1620" y="373" width="405" height="371" frameX="0" frameY="-9" frameWidth="405" frameHeight="381"/>
+	<SubTexture name="Frontback0006" x="1215" y="374" width="405" height="370" frameX="0" frameY="-11" frameWidth="405" frameHeight="381"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tank3.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Frontlongshort0000" x="0" y="0" width="577" height="94" pivotX="305.65" pivotY="59" frameX="-3" frameY="0" frameWidth="583" frameHeight="94"/>
+	<SubTexture name="Frontlongshort0001" x="0" y="94" width="577" height="91" frameX="-3" frameY="-3" frameWidth="583" frameHeight="94"/>
+	<SubTexture name="Frontlongshort0002" x="0" y="185" width="577" height="89" frameX="-3" frameY="-5" frameWidth="583" frameHeight="94"/>
+	<SubTexture name="Frontlongshort0003" x="0" y="274" width="578" height="87" frameX="-2" frameY="-7" frameWidth="583" frameHeight="94"/>
+	<SubTexture name="Frontlongshort0004" x="0" y="361" width="579" height="85" frameX="-2" frameY="-9" frameWidth="583" frameHeight="94"/>
+	<SubTexture name="Frontlongshort0005" x="0" y="612" width="581" height="83" frameX="-1" frameY="-11" frameWidth="583" frameHeight="94"/>
+	<SubTexture name="Frontlongshort0006" x="0" y="529" width="582" height="83" frameX="0" frameY="-11" frameWidth="583" frameHeight="94"/>
+	<SubTexture name="Frontlongshort0007" x="0" y="446" width="583" height="83" frameX="0" frameY="-11" frameWidth="583" frameHeight="94"/>
+</TextureAtlas>

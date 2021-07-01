@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tank4.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LeftHead0000" x="0" y="628" width="351" height="309" pivotX="199.5" pivotY="207.2" frameX="-10" frameY="-3" frameWidth="361" frameHeight="316"/>
+	<SubTexture name="LeftHead0001" x="717" y="626" width="352" height="310" frameX="-9" frameY="-3" frameWidth="361" frameHeight="316"/>
+	<SubTexture name="LeftHead0002" x="719" y="0" width="354" height="310" frameX="-7" frameY="-3" frameWidth="361" frameHeight="316"/>
+	<SubTexture name="LeftHead0003" x="717" y="314" width="355" height="312" frameX="-6" frameY="-2" frameWidth="361" frameHeight="316"/>
+	<SubTexture name="LeftHead0004" x="0" y="316" width="357" height="312" frameX="-4" frameY="-2" frameWidth="361" frameHeight="316"/>
+	<SubTexture name="LeftHead0005" x="360" y="314" width="357" height="314" frameX="-3" frameY="-1" frameWidth="361" frameHeight="316"/>
+	<SubTexture name="LeftHead0006" x="360" y="0" width="359" height="314" frameX="-1" frameY="-1" frameWidth="361" frameHeight="316"/>
+	<SubTexture name="LeftHead0007" x="0" y="0" width="360" height="316" frameX="0" frameY="0" frameWidth="361" frameHeight="316"/>
+</TextureAtlas>

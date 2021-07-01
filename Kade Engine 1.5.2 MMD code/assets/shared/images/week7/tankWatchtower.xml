@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tankWatchtower.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="watchtower copy0000" x="375" y="667" width="368" height="666" pivotX="3.6" pivotY="138.85" frameX="-3" frameY="-15" frameWidth="375" frameHeight="682"/>
+	<SubTexture name="watchtower copy0001" x="0" y="1342" width="371" height="669" frameX="-2" frameY="-7" frameWidth="375" frameHeight="682"/>
+	<SubTexture name="watchtower copy0002" x="0" y="0" width="375" height="671" frameX="0" frameY="0" frameWidth="375" frameHeight="682"/>
+	<SubTexture name="watchtower copy0003" x="0" y="671" width="375" height="671" frameX="0" frameY="0" frameWidth="375" frameHeight="682"/>
+	<SubTexture name="watchtower copy0004" x="371" y="1342" width="368" height="667" frameX="-3" frameY="-15" frameWidth="375" frameHeight="682"/>
+	<SubTexture name="watchtower copy0005" x="375" y="0" width="368" height="667" frameX="-3" frameY="-15" frameWidth="375" frameHeight="682"/>
+</TextureAtlas>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smoke LEFT.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="smoke LEFT0000" x="0" y="675" width="682" height="653" pivotX="278.3" pivotY="445.5" frameX="-6" frameY="-26" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0001" x="0" y="675" width="682" height="653" frameX="-6" frameY="-26" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0002" x="0" y="675" width="682" height="653" frameX="-6" frameY="-26" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0003" x="0" y="0" width="806" height="675" frameX="0" frameY="0" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0004" x="0" y="0" width="806" height="675" frameX="0" frameY="0" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0005" x="0" y="0" width="806" height="675" frameX="0" frameY="0" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0006" x="0" y="0" width="806" height="675" frameX="0" frameY="0" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0007" x="0" y="0" width="806" height="675" frameX="0" frameY="0" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0008" x="806" y="0" width="770" height="578" frameX="-14" frameY="-76" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0009" x="806" y="0" width="770" height="578" frameX="-14" frameY="-76" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0010" x="806" y="0" width="770" height="578" frameX="-14" frameY="-76" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0011" x="806" y="578" width="700" height="519" frameX="-104" frameY="-140" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0012" x="806" y="578" width="700" height="519" frameX="-104" frameY="-140" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0013" x="806" y="578" width="700" height="519" frameX="-104" frameY="-140" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0014" x="806" y="578" width="700" height="519" frameX="-104" frameY="-140" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0015" x="682" y="1097" width="617" height="554" frameX="-110" frameY="-129" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0016" x="682" y="1097" width="617" height="554" frameX="-110" frameY="-129" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0017" x="682" y="1097" width="617" height="554" frameX="-110" frameY="-129" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0018" x="1299" y="1097" width="546" height="553" frameX="-142" frameY="-114" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0019" x="1299" y="1097" width="546" height="553" frameX="-142" frameY="-114" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0020" x="1299" y="1097" width="546" height="553" frameX="-142" frameY="-114" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0021" x="0" y="1328" width="614" height="616" frameX="-127" frameY="-6" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0022" x="0" y="1328" width="614" height="616" frameX="-127" frameY="-6" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0023" x="0" y="1328" width="614" height="616" frameX="-127" frameY="-6" frameWidth="806" frameHeight="683"/>
+	<SubTexture name="smoke LEFT0024" x="0" y="1328" width="614" height="616" frameX="-127" frameY="-6" frameWidth="806" frameHeight="683"/>
+</TextureAtlas>
