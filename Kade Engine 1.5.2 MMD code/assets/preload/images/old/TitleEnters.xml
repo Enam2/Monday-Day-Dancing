@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TitleEnters.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Enter0000" x="0" y="2507" width="5895" height="728" pivotX="2896.3" pivotY="345.85"/>
+	<SubTexture name="Enter0001" x="0" y="3235" width="5895" height="728"/>
+	<SubTexture name="Enter0002" x="0" y="3963" width="5895" height="728"/>
+	<SubTexture name="Enter0003" x="0" y="4691" width="5895" height="728"/>
+	<SubTexture name="Enter0004" x="0" y="5419" width="5895" height="728"/>
+	<SubTexture name="Enter0005" x="0" y="6147" width="5895" height="728"/>
+	<SubTexture name="Enter0006" x="0" y="6875" width="5895" height="728"/>
+	<SubTexture name="Pressed0000" x="0" y="7603" width="4098" height="531" pivotX="3492.9" pivotY="438.6" frameX="-1451" frameY="-173" frameWidth="7004" frameHeight="875"/>
+	<SubTexture name="Pressed0001" x="0" y="7603" width="4098" height="531" frameX="-1451" frameY="-173" frameWidth="7004" frameHeight="875"/>
+	<SubTexture name="Pressed0002" x="0" y="1750" width="6283" height="757" frameX="-360" frameY="-60" frameWidth="7004" frameHeight="875"/>
+	<SubTexture name="Pressed0003" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0004" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0005" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0006" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0007" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0008" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0009" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0010" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0011" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0012" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0013" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0014" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0015" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0016" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0017" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0018" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0019" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0020" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0021" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0022" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0023" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0024" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0025" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0026" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0027" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0028" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0029" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0030" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0031" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0032" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0033" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0034" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0035" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0036" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0037" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0038" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0039" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0040" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0041" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0042" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0043" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0044" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0045" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0046" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0047" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0048" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0049" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0050" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0051" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0052" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0053" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0054" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0055" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0056" x="0" y="0" width="7004" height="875"/>
+	<SubTexture name="Pressed0057" x="0" y="875" width="7004" height="875"/>
+	<SubTexture name="Pressed0058" x="0" y="875" width="7004" height="875"/>
+</TextureAtlas>

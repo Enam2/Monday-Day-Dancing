@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Logo.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bumpin0000" x="907" y="0" width="894" height="670" pivotX="461" pivotY="336" frameX="-6" frameY="-1" frameWidth="907" frameHeight="671"/>
+	<SubTexture name="Bumpin0001" x="907" y="0" width="894" height="670" frameX="-6" frameY="-1" frameWidth="907" frameHeight="671"/>
+	<SubTexture name="Bumpin0002" x="907" y="0" width="894" height="670" frameX="-6" frameY="-1" frameWidth="907" frameHeight="671"/>
+	<SubTexture name="Bumpin0003" x="907" y="0" width="894" height="670" frameX="-6" frameY="-1" frameWidth="907" frameHeight="671"/>
+	<SubTexture name="Bumpin0004" x="0" y="670" width="840" height="620" frameX="-33" frameY="-26" frameWidth="907" frameHeight="671"/>
+	<SubTexture name="Bumpin0005" x="0" y="670" width="840" height="620" frameX="-33" frameY="-26" frameWidth="907" frameHeight="671"/>
+	<SubTexture name="Bumpin0006" x="840" y="670" width="685" height="506" frameX="-111" frameY="-83" frameWidth="907" frameHeight="671"/>
+	<SubTexture name="Bumpin0007" x="840" y="670" width="685" height="506" frameX="-111" frameY="-83" frameWidth="907" frameHeight="671"/>
+	<SubTexture name="Bumpin0008" x="840" y="670" width="685" height="506" frameX="-111" frameY="-83" frameWidth="907" frameHeight="671"/>
+	<SubTexture name="Bumpin0009" x="0" y="0" width="907" height="670" frameX="0" frameY="0" frameWidth="907" frameHeight="671"/>
+	<SubTexture name="Bumpin0010" x="0" y="0" width="907" height="670" frameX="0" frameY="0" frameWidth="907" frameHeight="671"/>
+	<SubTexture name="Bumpin0011" x="0" y="0" width="907" height="670" frameX="0" frameY="0" frameWidth="907" frameHeight="671"/>
+</TextureAtlas>
