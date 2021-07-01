@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Main Menu outlines.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Anime Dude lines instance 10000" x="2366" y="4785" width="323" height="285" pivotX="177" pivotY="165" frameX="-1" frameY="-11" frameWidth="327" frameHeight="296"/>
+	<SubTexture name="Anime Dude lines instance 10001" x="2366" y="4785" width="323" height="285" frameX="-1" frameY="-11" frameWidth="327" frameHeight="296"/>
+	<SubTexture name="Anime Dude lines instance 10002" x="2366" y="4785" width="323" height="285" frameX="-1" frameY="-11" frameWidth="327" frameHeight="296"/>
+	<SubTexture name="Anime Dude lines instance 10003" x="4688" y="4799" width="323" height="285" frameX="-1" frameY="-11" frameWidth="327" frameHeight="296"/>
+	<SubTexture name="Anime Dude lines instance 10004" x="4688" y="4799" width="323" height="285" frameX="-1" frameY="-11" frameWidth="327" frameHeight="296"/>
+	<SubTexture name="Anime Dude lines instance 10005" x="4688" y="4799" width="323" height="285" frameX="-1" frameY="-11" frameWidth="327" frameHeight="296"/>
+	<SubTexture name="Anime Dude lines instance 10006" x="5312" y="4571" width="324" height="292" frameX="-3" frameY="-4" frameWidth="327" frameHeight="296"/>
+	<SubTexture name="Anime Dude lines instance 10007" x="5312" y="4571" width="324" height="292" frameX="-3" frameY="-4" frameWidth="327" frameHeight="296"/>
+	<SubTexture name="Anime Dude lines instance 10008" x="5312" y="4571" width="324" height="292" frameX="-3" frameY="-4" frameWidth="327" frameHeight="296"/>
+	<SubTexture name="Anime Dude lines instance 10009" x="3934" y="4632" width="324" height="292" frameX="0" frameY="0" frameWidth="327" frameHeight="296"/>
+	<SubTexture name="Anime Dude lines instance 10010" x="3934" y="4632" width="324" height="292" frameX="0" frameY="0" frameWidth="327" frameHeight="296"/>
+	<SubTexture name="Anime Dude lines instance 10011" x="3934" y="4632" width="324" height="292" frameX="0" frameY="0" frameWidth="327" frameHeight="296"/>
+	<SubTexture name="Anime Dude lines instance 10012" x="894" y="4672" width="324" height="292" frameX="-2" frameY="-2" frameWidth="327" frameHeight="296"/>
+	<SubTexture name="Anime Dude lines instance 10013" x="894" y="4672" width="324" height="292" frameX="-2" frameY="-2" frameWidth="327" frameHeight="296"/>
+	<SubTexture name="Anime Dude lines instance 10014" x="894" y="4672" width="324" height="292" frameX="-2" frameY="-2" frameWidth="327" frameHeight="296"/>
+	<SubTexture name="Benco Lines instance 10000" x="2059" y="4370" width="307" height="490" pivotX="167" pivotY="263" frameX="-33" frameY="0" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10001" x="2059" y="4370" width="307" height="490" frameX="-33" frameY="0" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10002" x="2059" y="4370" width="307" height="490" frameX="-33" frameY="0" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10003" x="3320" y="4379" width="307" height="490" frameX="-22" frameY="-5" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10004" x="3320" y="4379" width="307" height="490" frameX="-22" frameY="-5" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10005" x="3320" y="4379" width="307" height="490" frameX="-22" frameY="-5" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10006" x="3627" y="4379" width="307" height="490" frameX="-2" frameY="-9" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10007" x="3627" y="4379" width="307" height="490" frameX="-2" frameY="-9" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10008" x="3627" y="4379" width="307" height="490" frameX="-2" frameY="-9" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10009" x="7454" y="4419" width="307" height="490" frameX="-26" frameY="-17" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10010" x="7454" y="4419" width="307" height="490" frameX="-26" frameY="-17" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10011" x="7454" y="4419" width="307" height="490" frameX="-26" frameY="-17" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10012" x="7761" y="4419" width="307" height="490" frameX="0" frameY="-25" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10013" x="7761" y="4419" width="307" height="490" frameX="0" frameY="-25" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10014" x="7761" y="4419" width="307" height="490" frameX="0" frameY="-25" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10015" x="4381" y="4508" width="307" height="490" frameX="-16" frameY="-25" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10016" x="4381" y="4508" width="307" height="490" frameX="-16" frameY="-25" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10017" x="4381" y="4508" width="307" height="490" frameX="-16" frameY="-25" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10018" x="5664" y="4544" width="307" height="490" frameX="-10" frameY="-5" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10019" x="5664" y="4544" width="307" height="490" frameX="-10" frameY="-5" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="Benco Lines instance 10020" x="5664" y="4544" width="307" height="490" frameX="-10" frameY="-5" frameWidth="340" frameHeight="515"/>
+	<SubTexture name="DD and MM Lines instance 10000" x="270" y="4672" width="624" height="237" pivotX="300" pivotY="157.25" frameX="0" frameY="-17" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10001" x="270" y="4672" width="624" height="237" frameX="0" frameY="-16" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10002" x="270" y="4672" width="624" height="237" frameX="0" frameY="-14" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10003" x="270" y="4672" width="624" height="237" frameX="0" frameY="-12" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10004" x="270" y="4672" width="624" height="237" frameX="0" frameY="-11" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10005" x="270" y="4672" width="624" height="237" frameX="0" frameY="-9" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10006" x="270" y="4672" width="624" height="237" frameX="0" frameY="-7" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10007" x="270" y="4672" width="624" height="237" frameX="0" frameY="-5" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10008" x="270" y="4672" width="624" height="237" frameX="0" frameY="-4" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10009" x="270" y="4672" width="624" height="237" frameX="0" frameY="-2" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10010" x="270" y="4672" width="624" height="237" frameX="0" frameY="0" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10011" x="270" y="4672" width="624" height="237" frameX="0" frameY="-3" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10012" x="270" y="4672" width="624" height="237" frameX="0" frameY="-6" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10013" x="270" y="4672" width="624" height="237" frameX="0" frameY="-9" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10014" x="270" y="4672" width="624" height="237" frameX="0" frameY="-12" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10015" x="270" y="4672" width="624" height="237" frameX="0" frameY="-15" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10016" x="270" y="4672" width="624" height="237" frameX="0" frameY="-17" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10017" x="270" y="4672" width="624" height="237" frameX="0" frameY="-20" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10018" x="270" y="4672" width="624" height="237" frameX="0" frameY="-23" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10019" x="270" y="4672" width="624" height="237" frameX="0" frameY="-26" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10020" x="270" y="4672" width="624" height="237" frameX="0" frameY="-28" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10021" x="270" y="4672" width="624" height="237" frameX="0" frameY="-31" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10022" x="270" y="4672" width="624" height="237" frameX="0" frameY="-29" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10023" x="270" y="4672" width="624" height="237" frameX="0" frameY="-27" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10024" x="270" y="4672" width="624" height="237" frameX="0" frameY="-25" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10025" x="270" y="4672" width="624" height="237" frameX="0" frameY="-22" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10026" x="270" y="4672" width="624" height="237" frameX="0" frameY="-20" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10027" x="270" y="4672" width="624" height="237" frameX="0" frameY="-18" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10028" x="270" y="4672" width="624" height="237" frameX="0" frameY="-15" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10029" x="270" y="4672" width="624" height="237" frameX="0" frameY="-12" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10030" x="270" y="4672" width="624" height="237" frameX="0" frameY="-10" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10031" x="270" y="4672" width="624" height="237" frameX="0" frameY="-7" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10032" x="270" y="4672" width="624" height="237" frameX="0" frameY="-4" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10033" x="270" y="4672" width="624" height="237" frameX="0" frameY="-1" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10034" x="270" y="4672" width="624" height="237" frameX="0" frameY="-4" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10035" x="270" y="4672" width="624" height="237" frameX="0" frameY="-6" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10036" x="270" y="4672" width="624" height="237" frameX="0" frameY="-9" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10037" x="270" y="4672" width="624" height="237" frameX="0" frameY="-12" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10038" x="270" y="4672" width="624" height="237" frameX="0" frameY="-15" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10039" x="270" y="4672" width="624" height="237" frameX="0" frameY="-17" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="DD and MM Lines instance 10040" x="270" y="4672" width="624" height="237" frameX="0" frameY="-17" frameWidth="624" frameHeight="268"/>
+	<SubTexture name="Dad Dear black instance 10000" x="7690" y="0" width="458" height="802" pivotX="253" pivotY="407" frameX="0" frameY="-1" frameWidth="458" frameHeight="803"/>
+	<SubTexture name="Dad Dear black instance 10001" x="7690" y="0" width="458" height="802" frameX="0" frameY="-1" frameWidth="458" frameHeight="803"/>
+	<SubTexture name="Dad Dear black instance 10002" x="4781" y="641" width="458" height="802" frameX="0" frameY="0" frameWidth="458" frameHeight="803"/>
+	<SubTexture name="Dad Dear black instance 10003" x="4781" y="641" width="458" height="802" frameX="0" frameY="0" frameWidth="458" frameHeight="803"/>
+	<SubTexture name="Dad Dear black instance 10004" x="5239" y="641" width="458" height="802" frameX="0" frameY="0" frameWidth="458" frameHeight="803"/>
+	<SubTexture name="Dad Dear black instance 10005" x="5239" y="641" width="458" height="802" frameX="0" frameY="0" frameWidth="458" frameHeight="803"/>
+	<SubTexture name="Dad Dear black instance 10006" x="5697" y="641" width="458" height="802" frameX="0" frameY="0" frameWidth="458" frameHeight="803"/>
+	<SubTexture name="Dad Dear black instance 10007" x="5697" y="641" width="458" height="802" frameX="0" frameY="0" frameWidth="458" frameHeight="803"/>
+	<SubTexture name="Dad Dear black instance 10008" x="7690" y="802" width="458" height="802" frameX="0" frameY="0" frameWidth="458" frameHeight="803"/>
+	<SubTexture name="Dad Dear black instance 10009" x="7690" y="802" width="458" height="802" frameX="0" frameY="0" frameWidth="458" frameHeight="803"/>
+	<SubTexture name="Dad Dear black instance 10010" x="6997" y="1202" width="458" height="802" frameX="0" frameY="0" frameWidth="458" frameHeight="803"/>
+	<SubTexture name="Dad Dear black instance 10011" x="6997" y="1202" width="458" height="802" frameX="0" frameY="0" frameWidth="458" frameHeight="803"/>
+	<SubTexture name="HEY!! instance 10000" x="270" y="4237" width="371" height="435" pivotX="186" pivotY="242"/>
+	<SubTexture name="HEY!! instance 10001" x="270" y="4237" width="371" height="435"/>
+	<SubTexture name="HEY!! instance 10002" x="641" y="4237" width="371" height="435"/>
+	<SubTexture name="HEY!! instance 10003" x="641" y="4237" width="371" height="435"/>
+	<SubTexture name="HEY!! instance 10004" x="1012" y="4237" width="371" height="435"/>
+	<SubTexture name="HEY!! instance 10005" x="1012" y="4237" width="371" height="435"/>
+	<SubTexture name="HEY!! instance 10006" x="2414" y="4350" width="371" height="435"/>
+	<SubTexture name="HEY!! instance 10007" x="2414" y="4350" width="371" height="435"/>
+	<SubTexture name="HEY!! instance 10008" x="2414" y="4350" width="371" height="435"/>
+	<SubTexture name="HEY!! instance 10009" x="2414" y="4350" width="371" height="435"/>
+	<SubTexture name="HEY!! instance 10010" x="2414" y="4350" width="371" height="435"/>
+	<SubTexture name="HEY!! instance 10011" x="2414" y="4350" width="371" height="435"/>
+	<SubTexture name="HEY!! instance 10012" x="2414" y="4350" width="371" height="435"/>
+	<SubTexture name="HEY!! instance 10013" x="2414" y="4350" width="371" height="435"/>
+	<SubTexture name="HEY!! instance 10014" x="2414" y="4350" width="371" height="435"/>
+	<SubTexture name="Headline Lines instance 10000" x="6710" y="4628" width="624" height="237" pivotX="360.6" pivotY="154.8" frameX="-50" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10001" x="6710" y="4628" width="624" height="237" frameX="-41" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10002" x="6710" y="4628" width="624" height="237" frameX="-33" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10003" x="6710" y="4628" width="624" height="237" frameX="-25" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10004" x="6710" y="4628" width="624" height="237" frameX="-17" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10005" x="6710" y="4628" width="624" height="237" frameX="-8" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10006" x="5971" y="4634" width="624" height="237" frameX="0" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10007" x="6710" y="4628" width="624" height="237" frameX="-6" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10008" x="6710" y="4628" width="624" height="237" frameX="-13" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10009" x="6710" y="4628" width="624" height="237" frameX="-19" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10010" x="6710" y="4628" width="624" height="237" frameX="-25" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10011" x="6710" y="4628" width="624" height="237" frameX="-31" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10012" x="6710" y="4628" width="624" height="237" frameX="-37" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10013" x="6710" y="4628" width="624" height="237" frameX="-44" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10014" x="6710" y="4628" width="624" height="237" frameX="-50" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10015" x="6710" y="4628" width="624" height="237" frameX="-55" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10016" x="6710" y="4628" width="624" height="237" frameX="-60" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10017" x="6710" y="4628" width="624" height="237" frameX="-65" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10018" x="6710" y="4628" width="624" height="237" frameX="-71" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10019" x="6710" y="4628" width="624" height="237" frameX="-76" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10020" x="6710" y="4628" width="624" height="237" frameX="-81" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10021" x="6710" y="4628" width="624" height="237" frameX="-87" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10022" x="6710" y="4628" width="624" height="237" frameX="-82" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10023" x="6710" y="4628" width="624" height="237" frameX="-77" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10024" x="6710" y="4628" width="624" height="237" frameX="-73" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10025" x="6710" y="4628" width="624" height="237" frameX="-68" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10026" x="6710" y="4628" width="624" height="237" frameX="-63" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10027" x="6710" y="4628" width="624" height="237" frameX="-59" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10028" x="6710" y="4628" width="624" height="237" frameX="-54" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10029" x="6710" y="4628" width="624" height="237" frameX="-50" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10030" x="6710" y="4628" width="624" height="237" frameX="-50" frameY="-20" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10031" x="6710" y="4628" width="624" height="237" frameX="-50" frameY="-15" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10032" x="6710" y="4628" width="624" height="237" frameX="-50" frameY="-10" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10033" x="6710" y="4628" width="624" height="237" frameX="-50" frameY="-5" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10034" x="6710" y="4628" width="624" height="237" frameX="-50" frameY="0" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10035" x="6710" y="4628" width="624" height="237" frameX="-50" frameY="-5" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10036" x="6710" y="4628" width="624" height="237" frameX="-50" frameY="-10" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10037" x="6710" y="4628" width="624" height="237" frameX="-50" frameY="-15" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10038" x="6710" y="4628" width="624" height="237" frameX="-50" frameY="-20" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10039" x="6710" y="4628" width="624" height="237" frameX="-50" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10040" x="6710" y="4628" width="624" height="237" frameX="-50" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10041" x="6710" y="4628" width="624" height="237" frameX="-50" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10042" x="6710" y="4628" width="624" height="237" frameX="-50" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10043" x="6710" y="4628" width="624" height="237" frameX="-50" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Headline Lines instance 10044" x="6710" y="4628" width="624" height="237" frameX="-50" frameY="-25" frameWidth="710" frameHeight="262"/>
+	<SubTexture name="Micheal Idle black instance 10000" x="4974" y="4127" width="372" height="435" pivotX="174" pivotY="217"/>
+	<SubTexture name="Micheal Idle black instance 10001" x="4974" y="4127" width="372" height="435"/>
+	<SubTexture name="Micheal Idle black instance 10002" x="1687" y="4148" width="372" height="435"/>
+	<SubTexture name="Micheal Idle black instance 10003" x="1687" y="4148" width="372" height="435"/>
+	<SubTexture name="Micheal Idle black instance 10004" x="6710" y="4193" width="372" height="435"/>
+	<SubTexture name="Micheal Idle black instance 10005" x="6710" y="4193" width="372" height="435"/>
+	<SubTexture name="Micheal Idle black instance 10006" x="7082" y="4193" width="372" height="435"/>
+	<SubTexture name="Micheal Idle black instance 10007" x="7082" y="4193" width="372" height="435"/>
+	<SubTexture name="Micheal Idle black instance 10008" x="4009" y="4197" width="372" height="435"/>
+	<SubTexture name="Micheal Idle black instance 10009" x="4009" y="4197" width="372" height="435"/>
+	<SubTexture name="Most Mother lines instance 10000" x="4688" y="4562" width="624" height="237" pivotX="321.85" pivotY="355.05" frameX="-22" frameY="-215" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10001" x="7543" y="4149" width="636" height="270" frameX="-16" frameY="-198" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10002" x="6897" y="3890" width="646" height="303" frameX="-11" frameY="-182" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10003" x="3363" y="3741" width="654" height="335" frameX="-7" frameY="-166" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10004" x="5772" y="3525" width="660" height="365" frameX="-4" frameY="-151" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10005" x="4331" y="3467" width="665" height="395" frameX="-2" frameY="-136" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10006" x="4710" y="3044" width="667" height="423" frameX="-1" frameY="-122" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10007" x="4719" y="2593" width="667" height="451" frameX="-1" frameY="-108" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10008" x="2503" y="2572" width="665" height="477" frameX="-2" frameY="-95" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10009" x="4719" y="2092" width="662" height="501" frameX="-3" frameY="-83" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10010" x="656" y="1822" width="657" height="524" frameX="-6" frameY="-71" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10011" x="4342" y="1443" width="649" height="546" frameX="-10" frameY="-60" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10012" x="0" y="1256" width="640" height="566" frameX="-14" frameY="-50" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10013" x="1816" y="641" width="629" height="584" frameX="-20" frameY="-41" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10014" x="0" y="641" width="615" height="601" frameX="-27" frameY="-33" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10015" x="615" y="641" width="601" height="615" frameX="-34" frameY="-26" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10016" x="2445" y="641" width="584" height="629" frameX="-42" frameY="-19" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10017" x="2560" y="1270" width="566" height="640" frameX="-51" frameY="-13" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10018" x="4991" y="1443" width="546" height="649" frameX="-61" frameY="-9" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10019" x="3692" y="1816" width="525" height="656" frameX="-72" frameY="-5" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10020" x="7131" y="2253" width="501" height="662" frameX="-84" frameY="-2" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10021" x="7632" y="2253" width="477" height="665" frameX="-96" frameY="-1" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10022" x="1332" y="2479" width="451" height="667" frameX="-109" frameY="0" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10023" x="2280" y="3049" width="423" height="667" frameX="-123" frameY="0" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10024" x="2703" y="3049" width="395" height="665" frameX="-137" frameY="-1" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10025" x="1715" y="3488" width="365" height="660" frameX="-152" frameY="-3" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10026" x="7561" y="3495" width="335" height="654" frameX="-167" frameY="-6" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10027" x="4671" y="3862" width="303" height="646" frameX="-183" frameY="-10" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10028" x="7896" y="3495" width="271" height="636" frameX="-199" frameY="-15" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10029" x="2785" y="4350" width="237" height="624" frameX="-216" frameY="-21" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10030" x="2785" y="4350" width="237" height="624" frameX="-216" frameY="-21" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10031" x="6440" y="3998" width="270" height="636" frameX="-199" frameY="-15" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10032" x="5362" y="3925" width="302" height="646" frameX="-183" frameY="-10" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10033" x="2080" y="3716" width="334" height="654" frameX="-167" frameY="-6" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10034" x="4996" y="3467" width="366" height="660" frameX="-151" frameY="-3" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10035" x="5377" y="3260" width="395" height="665" frameX="-137" frameY="-1" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10036" x="4286" y="2651" width="424" height="667" frameX="-122" frameY="0" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10037" x="5386" y="2593" width="450" height="667" frameX="-109" frameY="0" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10038" x="6043" y="2437" width="476" height="665" frameX="-96" frameY="-1" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10039" x="3149" y="1910" width="502" height="662" frameX="-83" frameY="-2" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10040" x="1313" y="1822" width="524" height="657" frameX="-72" frameY="-5" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10041" x="5537" y="1443" width="546" height="649" frameX="-61" frameY="-9" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10042" x="3126" y="1270" width="566" height="640" frameX="-51" frameY="-13" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10043" x="3029" y="641" width="584" height="629" frameX="-42" frameY="-19" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10044" x="1216" y="641" width="600" height="615" frameX="-34" frameY="-26" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10045" x="7074" y="0" width="616" height="601" frameX="-26" frameY="-33" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10046" x="6155" y="1204" width="628" height="584" frameX="-20" frameY="-41" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10047" x="640" y="1256" width="640" height="566" frameX="-14" frameY="-50" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10048" x="3692" y="1270" width="650" height="546" frameX="-9" frameY="-60" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10049" x="1837" y="1836" width="656" height="524" frameX="-6" frameY="-71" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10050" x="5381" y="2092" width="662" height="501" frameX="-3" frameY="-83" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10051" x="0" y="2347" width="666" height="477" frameX="-1" frameY="-95" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10052" x="3168" y="2572" width="668" height="451" frameX="0" frameY="-108" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10053" x="5836" y="3102" width="666" height="423" frameX="-1" frameY="-122" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10054" x="6897" y="3495" width="664" height="395" frameX="-2" frameY="-136" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10055" x="395" y="3569" width="660" height="365" frameX="-4" frameY="-151" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10056" x="4017" y="3862" width="654" height="335" frameX="-7" frameY="-166" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10057" x="395" y="3934" width="646" height="303" frameX="-11" frameY="-182" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10058" x="2414" y="4079" width="636" height="271" frameX="-16" frameY="-198" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10059" x="1383" y="4583" width="624" height="237" frameX="-22" frameY="-215" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10060" x="1383" y="4583" width="624" height="237" frameX="-22" frameY="-215" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10061" x="1041" y="3934" width="646" height="303" frameX="-11" frameY="-182" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10062" x="1055" y="3569" width="660" height="365" frameX="-4" frameY="-151" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10063" x="994" y="3146" width="666" height="423" frameX="-1" frameY="-122" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10064" x="1837" y="2434" width="666" height="477" frameX="-1" frameY="-95" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10065" x="2493" y="1910" width="656" height="524" frameX="-6" frameY="-71" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10066" x="1280" y="1256" width="640" height="566" frameX="-14" frameY="-50" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10067" x="7074" y="601" width="616" height="601" frameX="-26" frameY="-33" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10068" x="3613" y="641" width="584" height="629" frameX="-42" frameY="-19" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10069" x="7455" y="1604" width="546" height="649" frameX="-61" frameY="-9" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10070" x="4217" y="1989" width="502" height="662" frameX="-83" frameY="-2" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10071" x="3836" y="2651" width="450" height="667" frameX="-109" frameY="0" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10072" x="6502" y="3333" width="395" height="665" frameX="-136" frameY="-1" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10073" x="5772" y="3890" width="334" height="654" frameX="-167" frameY="-6" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10074" x="0" y="4066" width="270" height="636" frameX="-199" frameY="-15" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10075" x="3050" y="4079" width="270" height="636" frameX="-199" frameY="-15" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10076" x="6106" y="3890" width="334" height="654" frameX="-167" frameY="-6" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10077" x="0" y="3401" width="395" height="665" frameX="-136" frameY="-1" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10078" x="6519" y="2666" width="450" height="667" frameX="-109" frameY="0" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10079" x="6629" y="2004" width="502" height="662" frameX="-83" frameY="-2" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10080" x="6083" y="1788" width="546" height="649" frameX="-61" frameY="-9" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10081" x="4197" y="641" width="584" height="629" frameX="-42" frameY="-19" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10082" x="6381" y="603" width="616" height="601" frameX="-26" frameY="-33" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10083" x="1920" y="1270" width="640" height="566" frameX="-14" frameY="-50" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10084" x="0" y="1822" width="656" height="525" frameX="-6" frameY="-71" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10085" x="666" y="2479" width="666" height="477" frameX="-1" frameY="-95" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10086" x="3665" y="3318" width="666" height="423" frameX="-1" frameY="-122" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10087" x="2703" y="3714" width="660" height="365" frameX="-4" frameY="-151" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10088" x="3363" y="4076" width="646" height="303" frameX="-11" frameY="-182" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="Most Mother lines instance 10089" x="4688" y="4562" width="624" height="237" frameX="-22" frameY="-215" frameWidth="668" frameHeight="667"/>
+	<SubTexture name="SandP Lines instance 10000" x="0" y="2824" width="497" height="577" pivotX="242" pivotY="300" frameX="-2" frameY="0" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="SandP Lines instance 10001" x="0" y="2824" width="497" height="577" frameX="-2" frameY="0" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="SandP Lines instance 10002" x="0" y="2824" width="497" height="577" frameX="-2" frameY="0" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="SandP Lines instance 10003" x="1783" y="2911" width="497" height="577" frameX="0" frameY="-10" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="SandP Lines instance 10004" x="1783" y="2911" width="497" height="577" frameX="0" frameY="-10" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="SandP Lines instance 10005" x="6969" y="2915" width="497" height="577" frameX="-50" frameY="-55" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="SandP Lines instance 10006" x="6969" y="2915" width="497" height="577" frameX="-50" frameY="-55" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="SandP Lines instance 10007" x="7466" y="2918" width="497" height="577" frameX="-32" frameY="-59" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="SandP Lines instance 10008" x="7466" y="2918" width="497" height="577" frameX="-32" frameY="-59" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="SandP Lines instance 10009" x="497" y="2956" width="497" height="577" frameX="-29" frameY="-26" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="SandP Lines instance 10010" x="497" y="2956" width="497" height="577" frameX="-29" frameY="-26" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="SandP Lines instance 10011" x="3168" y="3023" width="497" height="577" frameX="-19" frameY="-32" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="SandP Lines instance 10012" x="3168" y="3023" width="497" height="577" frameX="-19" frameY="-32" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="SandP Lines instance 10013" x="3168" y="3023" width="497" height="577" frameX="-19" frameY="-32" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="SandP Lines instance 10014" x="7466" y="2918" width="497" height="577" frameX="-36" frameY="-60" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="SandP Lines instance 10015" x="7466" y="2918" width="497" height="577" frameX="-36" frameY="-60" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="SandP Lines instance 10016" x="6969" y="2915" width="497" height="577" frameX="-56" frameY="-62" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="SandP Lines instance 10017" x="6969" y="2915" width="497" height="577" frameX="-56" frameY="-62" frameWidth="553" frameHeight="639"/>
+	<SubTexture name="ThighLaby Lines instance 10000" x="0" y="0" width="709" height="641" pivotX="259" pivotY="366" frameX="0" frameY="-3" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10001" x="0" y="0" width="709" height="641" frameX="0" frameY="-3" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10002" x="0" y="0" width="709" height="641" frameX="0" frameY="-3" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10003" x="709" y="0" width="709" height="641" frameX="-2" frameY="-1" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10004" x="709" y="0" width="709" height="641" frameX="-2" frameY="-1" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10005" x="1418" y="0" width="709" height="641" frameX="-4" frameY="-1" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10006" x="1418" y="0" width="709" height="641" frameX="-4" frameY="-1" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10007" x="2127" y="0" width="709" height="641" frameX="-9" frameY="-7" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10008" x="2127" y="0" width="709" height="641" frameX="-9" frameY="-7" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10009" x="2127" y="0" width="709" height="641" frameX="-9" frameY="-7" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10010" x="2836" y="0" width="709" height="641" frameX="-6" frameY="-15" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10011" x="2836" y="0" width="709" height="641" frameX="-6" frameY="-15" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10012" x="2836" y="0" width="709" height="641" frameX="0" frameY="0" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10013" x="2836" y="0" width="709" height="641" frameX="0" frameY="0" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10014" x="3545" y="0" width="709" height="641" frameX="-8" frameY="-1" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10015" x="3545" y="0" width="709" height="641" frameX="-8" frameY="-1" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10016" x="3545" y="0" width="709" height="641" frameX="-8" frameY="-1" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10017" x="3545" y="0" width="709" height="641" frameX="-6" frameY="-4" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10018" x="3545" y="0" width="709" height="641" frameX="-6" frameY="-4" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10019" x="4254" y="0" width="709" height="641" frameX="-5" frameY="-3" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10020" x="4254" y="0" width="709" height="641" frameX="-5" frameY="-3" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10021" x="4254" y="0" width="709" height="641" frameX="-5" frameY="-3" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10022" x="4254" y="0" width="709" height="641" frameX="-3" frameY="0" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10023" x="4254" y="0" width="709" height="641" frameX="-3" frameY="0" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10024" x="6381" y="0" width="693" height="603" frameX="-12" frameY="-31" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10025" x="6381" y="0" width="693" height="603" frameX="-12" frameY="-31" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10026" x="4963" y="0" width="709" height="641" frameX="-5" frameY="-25" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10027" x="4963" y="0" width="709" height="641" frameX="-5" frameY="-25" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10028" x="4963" y="0" width="709" height="641" frameX="-5" frameY="-25" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10029" x="5672" y="0" width="709" height="641" frameX="-7" frameY="-8" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10030" x="5672" y="0" width="709" height="641" frameX="-7" frameY="-8" frameWidth="718" frameHeight="666"/>
+	<SubTexture name="ThighLaby Lines instance 10031" x="5672" y="0" width="709" height="641" frameX="-7" frameY="-8" frameWidth="718" frameHeight="666"/>
+</TextureAtlas>
