@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfPixelsDEAD.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Dies pixel0000" x="8" y="9" width="70" height="78"/>
+	<SubTexture name="BF Dies pixel0001" x="8" y="9" width="70" height="78"/>
+	<SubTexture name="BF Dies pixel0002" x="91" y="9" width="62" height="78"/>
+	<SubTexture name="BF Dies pixel0003" x="91" y="9" width="62" height="78"/>
+	<SubTexture name="BF Dies pixel0004" x="175" y="9" width="62" height="78"/>
+	<SubTexture name="BF Dies pixel0005" x="175" y="9" width="62" height="78"/>
+	<SubTexture name="BF Dies pixel0006" x="175" y="9" width="62" height="78"/>
+	<SubTexture name="BF Dies pixel0007" x="175" y="9" width="62" height="78"/>
+	<SubTexture name="BF Dies pixel0008" x="175" y="9" width="62" height="78"/>
+	<SubTexture name="BF Dies pixel0009" x="175" y="9" width="62" height="78"/>
+	<SubTexture name="BF Dies pixel0010" x="249" y="9" width="65" height="78"/>
+	<SubTexture name="BF Dies pixel0011" x="249" y="9" width="65" height="78"/>
+	<SubTexture name="BF Dies pixel0012" x="331" y="9" width="67" height="78"/>
+	<SubTexture name="BF Dies pixel0013" x="331" y="9" width="67" height="78"/>
+	<SubTexture name="BF Dies pixel0014" x="421" y="9" width="68" height="83"/>
+	<SubTexture name="BF Dies pixel0015" x="421" y="9" width="68" height="83"/>
+	<SubTexture name="BF Dies pixel0016" x="421" y="9" width="68" height="83"/>
+	<SubTexture name="BF Dies pixel0017" x="421" y="9" width="79" height="104"/>
+	<SubTexture name="BF Dies pixel0018" x="525" y="20" width="79" height="104"/>
+	<SubTexture name="BF Dies pixel0019" x="525" y="20" width="79" height="104"/>
+	<SubTexture name="BF Dies pixel0020" x="939" y="136" width="79" height="104"/>
+	<SubTexture name="BF Dies pixel0021" x="939" y="136" width="79" height="104"/>
+	<SubTexture name="BF Dies pixel0022" x="616" y="20" width="79" height="104"/>
+	<SubTexture name="BF Dies pixel0023" x="616" y="20" width="79" height="104"/>
+	<SubTexture name="BF Dies pixel0024" x="700" y="20" width="79" height="104"/>
+	<SubTexture name="BF Dies pixel0025" x="700" y="20" width="79" height="104"/>
+	<SubTexture name="RETRY CONFIRM0000" x="700" y="20" width="79" height="104"/>
+	<SubTexture name="RETRY CONFIRM0001" x="882" y="20" width="79" height="104"/>
+	<SubTexture name="RETRY CONFIRM0002" x="882" y="20" width="79" height="104"/>
+	<SubTexture name="RETRY CONFIRM0003" x="700" y="20" width="79" height="104"/>
+	<SubTexture name="RETRY CONFIRM0004" x="882" y="20" width="79" height="104"/>
+	<SubTexture name="RETRY CONFIRM0005" x="882" y="20" width="79" height="104"/>
+	<SubTexture name="RETRY CONFIRM0006" x="700" y="20" width="79" height="104"/>
+	<SubTexture name="RETRY CONFIRM0007" x="882" y="20" width="79" height="104"/>
+	<SubTexture name="RETRY CONFIRM0008" x="882" y="20" width="79" height="104"/>
+	<SubTexture name="Retry Loop0000" x="700" y="20" width="79" height="104"/>
+	<SubTexture name="Retry Loop0001" x="700" y="20" width="79" height="104"/>
+	<SubTexture name="Retry Loop0002" x="700" y="20" width="79" height="104"/>
+	<SubTexture name="Retry Loop0003" x="700" y="20" width="79" height="104"/>
+	<SubTexture name="Retry Loop0004" x="700" y="20" width="79" height="104"/>
+	<SubTexture name="Retry Loop0005" x="791" y="20" width="79" height="104"/>
+	<SubTexture name="Retry Loop0006" x="700" y="20" width="79" height="104"/>
+	<SubTexture name="Retry Loop0007" x="700" y="20" width="79" height="104"/>
+	<SubTexture name="Retry Loop0008" x="700" y="20" width="79" height="104"/>
+	<SubTexture name="Retry Loop0009" x="791" y="20" width="79" height="104"/>
+</TextureAtlas>

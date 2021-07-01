@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MpixelDEAD.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DEADINTRO FULL instance 10000" x="0" y="0" width="77" height="96" pivotX="41.45" pivotY="59.4" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10001" x="0" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10002" x="77" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10003" x="77" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10004" x="154" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10005" x="154" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10006" x="154" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10007" x="154" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10008" x="154" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10009" x="154" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10010" x="231" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10011" x="231" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10012" x="308" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10013" x="308" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10014" x="385" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10015" x="385" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10016" x="385" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10017" x="385" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10018" x="385" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10019" x="385" y="0" width="77" height="96" frameX="-10" frameY="-21" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10020" x="0" y="96" width="91" height="112" frameX="0" frameY="0" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10021" x="91" y="96" width="91" height="112" frameX="0" frameY="0" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10022" x="91" y="96" width="91" height="112" frameX="0" frameY="0" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10023" x="182" y="96" width="91" height="112" frameX="0" frameY="0" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10024" x="182" y="96" width="91" height="112" frameX="0" frameY="0" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10025" x="273" y="96" width="91" height="112" frameX="0" frameY="0" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="DEADINTRO FULL instance 10026" x="273" y="96" width="91" height="112" frameX="0" frameY="0" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="RETRY SHAKE instance 10000" x="273" y="96" width="91" height="112" pivotX="41.45" pivotY="59.4" frameX="0" frameY="0" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="RETRY SHAKE instance 10001" x="273" y="96" width="91" height="112" frameX="0" frameY="0" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="RETRY SHAKE instance 10002" x="273" y="96" width="91" height="112" frameX="0" frameY="0" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="RETRY SHAKE instance 10003" x="273" y="96" width="91" height="112" frameX="0" frameY="0" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="RETRY SHAKE instance 10004" x="273" y="96" width="91" height="112" frameX="0" frameY="0" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="RETRY SHAKE instance 10005" x="364" y="96" width="90" height="112"/>
+	<SubTexture name="RETRY YES instance 10000" x="273" y="96" width="91" height="112" pivotX="41.45" pivotY="59.4" frameX="0" frameY="-10" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="RETRY YES instance 10001" x="273" y="96" width="91" height="112" frameX="0" frameY="-10" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="RETRY YES instance 10002" x="0" y="208" width="91" height="112" frameX="0" frameY="-20" frameWidth="91" frameHeight="132"/>
+	<SubTexture name="RETRY YES instance 10003" x="273" y="96" width="91" height="112" frameX="0" frameY="0" frameWidth="91" frameHeight="117"/>
+	<SubTexture name="RETRY YES instance 10004" x="0" y="208" width="91" height="112" frameX="0" frameY="-9" frameWidth="91" frameHeight="132"/>
+	<SubTexture name="RETRY YES instance 10005" x="0" y="208" width="91" height="112" frameX="0" frameY="-9" frameWidth="91" frameHeight="132"/>
+	<SubTexture name="RETRY YES instance 10006" x="0" y="208" width="91" height="112" frameX="0" frameY="-9" frameWidth="91" frameHeight="132"/>
+	<SubTexture name="RETRY YES instance 10007" x="0" y="208" width="91" height="112" frameX="0" frameY="-9" frameWidth="91" frameHeight="132"/>
+	<SubTexture name="RETRY YES instance 10008" x="0" y="208" width="91" height="112" frameX="0" frameY="-9" frameWidth="91" frameHeight="132"/>
+	<SubTexture name="RETRY YES instance 10009" x="0" y="208" width="91" height="112" frameX="0" frameY="-9" frameWidth="91" frameHeight="132"/>
+	<SubTexture name="RETRY YES instance 10010" x="0" y="208" width="91" height="112" frameX="0" frameY="-9" frameWidth="91" frameHeight="132"/>
+	<SubTexture name="RETRY YES instance 10011" x="0" y="208" width="91" height="112" frameX="0" frameY="-9" frameWidth="91" frameHeight="132"/>
+	<SubTexture name="RETRY YES instance 10012" x="0" y="208" width="91" height="112" frameX="0" frameY="-9" frameWidth="91" frameHeight="132"/>
+	<SubTexture name="RETRY YES instance 10013" x="0" y="208" width="91" height="112" frameX="0" frameY="-9" frameWidth="91" frameHeight="132"/>
+	<SubTexture name="RETRY YES instance 10014" x="0" y="208" width="91" height="112" frameX="0" frameY="-9" frameWidth="91" frameHeight="132"/>
+	<SubTexture name="RETRY YES instance 10015" x="0" y="208" width="91" height="112" frameX="0" frameY="-9" frameWidth="91" frameHeight="132"/>
+	<SubTexture name="RETRY YES instance 10016" x="0" y="208" width="91" height="112" frameX="0" frameY="-9" frameWidth="91" frameHeight="132"/>
+	<SubTexture name="RETRY YES instance 10017" x="0" y="208" width="91" height="112" frameX="0" frameY="-9" frameWidth="91" frameHeight="132"/>
+	<SubTexture name="RETRY YES instance 10018" x="0" y="208" width="91" height="112" frameX="0" frameY="-9" frameWidth="91" frameHeight="132"/>
+	<SubTexture name="RETRY YES instance 10019" x="0" y="208" width="91" height="112" frameX="0" frameY="-9" frameWidth="91" frameHeight="132"/>
+</TextureAtlas>
