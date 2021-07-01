@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ThighLaby-Glitching.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="thighlaby-glitching0000" x="0" y="0" width="123" height="108" pivotX="62" pivotY="58" frameX="-1" frameY="0" frameWidth="124" frameHeight="108"/>
+	<SubTexture name="thighlaby-glitching0001" x="0" y="0" width="123" height="108" frameX="-1" frameY="0" frameWidth="124" frameHeight="108"/>
+	<SubTexture name="thighlaby-glitching0002" x="0" y="0" width="123" height="108" frameX="-1" frameY="0" frameWidth="124" frameHeight="108"/>
+	<SubTexture name="thighlaby-glitching0003" x="123" y="0" width="123" height="108" frameX="0" frameY="0" frameWidth="124" frameHeight="108"/>
+	<SubTexture name="thighlaby-glitching0004" x="123" y="0" width="123" height="108" frameX="0" frameY="0" frameWidth="124" frameHeight="108"/>
+	<SubTexture name="thighlaby-glitching0005" x="123" y="0" width="123" height="108" frameX="0" frameY="0" frameWidth="124" frameHeight="108"/>
+	<SubTexture name="thighlaby-glitching0006" x="0" y="108" width="123" height="108" frameX="0" frameY="0" frameWidth="124" frameHeight="108"/>
+	<SubTexture name="thighlaby-glitching0007" x="0" y="108" width="123" height="108" frameX="0" frameY="0" frameWidth="124" frameHeight="108"/>
+	<SubTexture name="thighlaby-glitching0008" x="0" y="108" width="123" height="108" frameX="0" frameY="0" frameWidth="124" frameHeight="108"/>
+	<SubTexture name="thighlaby-glitching0009" x="123" y="0" width="123" height="108" frameX="0" frameY="0" frameWidth="124" frameHeight="108"/>
+	<SubTexture name="thighlaby-glitching0010" x="123" y="0" width="123" height="108" frameX="0" frameY="0" frameWidth="124" frameHeight="108"/>
+	<SubTexture name="thighlaby-glitching0011" x="123" y="0" width="123" height="108" frameX="0" frameY="0" frameWidth="124" frameHeight="108"/>
+	<SubTexture name="thighlaby-glitching0012" x="0" y="0" width="123" height="108" frameX="-1" frameY="0" frameWidth="124" frameHeight="108"/>
+	<SubTexture name="thighlaby-glitching0013" x="0" y="0" width="123" height="108" frameX="-1" frameY="0" frameWidth="124" frameHeight="108"/>
+	<SubTexture name="thighlaby-glitching0014" x="0" y="0" width="123" height="108" frameX="-1" frameY="0" frameWidth="124" frameHeight="108"/>
+</TextureAtlas>
